@@ -1,16 +1,16 @@
-## Hi there 👋
+ 🚀 Hi, I'm Kiran — exploring tech with curiosity, discipline, and creativity.  
+This repo tracks my 90-day learning path, personal projects, and skills growth.
 
-<!--
-**Kiranx369/Kiranx369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🌱 Current Focus
+- Python & Data Science (Pandas, NumPy, Matplotlib)
+- AI & Machine Learning (PW Skills Generative AI course)
+- Data Structures & Algorithms (LeetCode / HackerRank)
+- Mini Projects for Portfolio & GitHub
 
-Here are some ideas to get you started:
+ 🧠 Learning Mindset
+> “Consistency beats intensity — one commit at a time.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💡 Connect with me
+- GitHub: [@Kiranx369](https://github.com/Kiranx369)
+- LinkedIn: (add when ready)
+
