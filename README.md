@@ -12,5 +12,5 @@ This repo tracks my 90-day learning path, personal projects, and skills growth.
 
  💡 Connect with me
 - GitHub: [@Kiranx369](https://github.com/Kiranx369)
-- LinkedIn: (add when ready)
+- LinkedIn: www.linkedin.com/in/kiran-barge-81399b22b
 
