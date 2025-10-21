@@ -8,7 +8,7 @@ This repo tracks my 90-day learning path, personal projects, and skills growth.
 - Mini Projects for Portfolio & GitHub
 
  🧠 Learning Mindset
-> “Consistency beats intensity — one commit at a time.”
+ “Consistency beats intensity — one commit at a time.”
 
  💡 Connect with me
 - GitHub: [@Kiranx369](https://github.com/Kiranx369)
